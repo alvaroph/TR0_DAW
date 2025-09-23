@@ -69,7 +69,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
 
 function enviarEstat() {
-  const url = "recollida.php"; // cambia por tu endpoint
+  const url = "http://aperezh.daw.inspedralbes.cat/joc/recollida.php"; // cambia por tu endpoint
 
   // 1) Enviar como JSON
   fetch(url, {
