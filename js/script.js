@@ -66,7 +66,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
 
        
 });
-
+  
 
 function enviarEstat() {
   const url = "http://aperezh.daw.inspedralbes.cat/joc/recollida.php"; // cambia por tu endpoint
