@@ -2,3 +2,7 @@ img{
     width: 150px;
 }
 
+.seleccionada {
+  background-color: orange;
+}
+
